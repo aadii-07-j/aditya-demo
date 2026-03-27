@@ -1,4 +1,4 @@
 # aditya-demo
 This is my first repository
 <br>
-author- Aditya Jaiswal
+author- Aditya (Jaiswal)
